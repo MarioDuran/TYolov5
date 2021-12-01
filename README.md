@@ -5,11 +5,17 @@ Timely handgun detection is a crucial problem to improve public safety; neverthe
 Weights of the models:
 
 S_ConvLSTM https://drive.google.com/file/d/1AO920AaKX18Ag22E7pmEvoWFZsr2wa6R/view?usp=sharing
+
 M_ConvLSTM https://drive.google.com/file/d/120liXvIP71emZeC04_JtLW8ul4DBL8jI/view?usp=sharing
+
 L_ConvLSTM https://drive.google.com/file/d/1-sn5QH4SsrooGvyiz9kHwYxsJdpJWpvF/view?usp=sharing
+
 S_QRNN https://drive.google.com/file/d/11o10p30ViHBAlv2WqPX-RLKXZRTSf2XH/view?usp=sharing
+
 M_QRNN https://drive.google.com/file/d/117ImSTS7bh4phX_85IAe0sVu0kzVYinz/view?usp=sharing
+
 L_QRNN https://drive.google.com/file/d/108MaX8mFBVke_7-6qgrXb_9LrOo5U73Y/view?usp=sharing
+
 
 ### If you use this code for your research, please consider citing:
 
